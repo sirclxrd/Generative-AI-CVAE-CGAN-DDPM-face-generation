@@ -79,7 +79,7 @@ device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
   steps where applicable!
 
 
-## Example output
+## Example ddpm output
 
 ![Generated samples](imgs/ddp129new.png)
 
