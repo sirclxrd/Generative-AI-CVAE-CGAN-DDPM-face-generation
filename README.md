@@ -81,11 +81,7 @@ device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 ## Example output
 
-```
-imgs/generated_grid.png
-```
-
-![Generated samples](imgs/generated_grid.png)
+![Generated samples](imgs/ddpm129new.png)
 
 
 
