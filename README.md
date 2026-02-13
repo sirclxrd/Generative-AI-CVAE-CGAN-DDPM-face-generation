@@ -1,4 +1,4 @@
-﻿# Generative-AI  Conditional Face Generation
+﻿# Generative-AI  Conditional Face Generation with CelebA dataset
 
 This repository contains experimental code (a university project) for
 conditional face generation using three different approaches:
